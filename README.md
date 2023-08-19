@@ -14,3 +14,10 @@ If you would rather use the Gitpod development environment for this app:
 
 - Change the dropdown that says "Web IDE" to "Gitpod" (if it already says "Gitpod" skip this step)
 - Click the button that says "Gitpod"
+
+
+## Result of the Assesment
+
+Here is the Image for my result. 
+
+![Screen Shot](./app/static/screenshot.png)
